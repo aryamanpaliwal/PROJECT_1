@@ -1,2 +1,3 @@
 # PROJECT_1
 WEATHER CHECKING INTERFACE
+![PROJECT WEATHER APP - Google Chrome 08-08-2022 01_31_23 AM](https://user-images.githubusercontent.com/83011117/183309088-bbc8b461-6833-4872-9ad4-fc8654f7be26.png)
